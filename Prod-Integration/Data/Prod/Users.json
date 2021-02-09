@@ -1,0 +1,32 @@
+﻿[
+  {
+    "CompanyId": "CisionCloudQA",
+    "Username": "Automation",
+    "Password": "CisionAutomation2017",
+    "CompanyEdition": "CisionCloudQAUser"
+  },
+  {
+    "CompanyId": "CisionCloudQA",
+    "Username": "Automation1",
+    "Password": "CisionAutomation2017",
+    "CompanyEdition": "CisionCloudQAUser"
+  },
+  {
+    "CompanyId": "CisionCloudQA",
+    "Username": "Automation2",
+    "Password": "CisionAutomation2017",
+    "CompanyEdition": "CisionCloudQAUser"
+  },
+  {
+    "CompanyId": "CisionCloudQA",
+    "Username": "Automation3",
+    "Password": "CisionAutomation2017",
+    "CompanyEdition": "CisionCloudQAUser"
+  },
+  {
+    "CompanyId": "CisionCloudQA",
+    "Username": "Automation4",
+    "Password": "CisionAutomation2017",
+    "CompanyEdition": "CisionCloudQAUser"
+  }
+]

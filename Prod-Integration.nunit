@@ -1,0 +1,9 @@
+<NUnitProject>
+  <Settings activeconfig="Debug"/>
+  <Config name="Debug">
+    <assembly path="Prod-Integration\bin\Debug\Prod-Integration.dll"/>
+  </Config>
+  <Config name="Release">
+    <assembly path="Prod-Integration\bin\Release\Prod-Integration.dll"/>
+  </Config>
+</NUnitProject>
